@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,7 +22,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-=======
-# Ruby-Controllers-Routes-API
->>>>>>> 7da7576e7ba4ff1e5b5a16712af6d06606b2d001
+
